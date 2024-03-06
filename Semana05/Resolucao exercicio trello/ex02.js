@@ -1,6 +1,6 @@
 //Semana 05
-
 //Exercicio 02- Adicionar e Remover Elementos
+
 //Usando o mesmo array do exercício anterior, adicione mais uma fruta ao array frutas.
 // Em seguida, remova a primeira fruta do array. 
 //Imprima o array atualizado no console. 

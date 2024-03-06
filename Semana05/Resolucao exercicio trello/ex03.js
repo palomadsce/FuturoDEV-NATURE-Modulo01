@@ -1,5 +1,4 @@
 //Semana 05
-
 //Exercicio 03 - Iteração Básica
 
 //Crie um array chamado numeros contendo cinco números inteiros. 

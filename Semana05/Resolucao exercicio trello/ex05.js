@@ -1,6 +1,6 @@
 //Semana 05
-
 //Exercicio 05 - Ordenação Crescente
+
 //Crie um novo array chamado numerosOrdenados contendo os mesmos números do array numeros. 
 //Em seguida, ordene esse novo array em ordem crescente e 
 //imprima-o no console.

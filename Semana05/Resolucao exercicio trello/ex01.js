@@ -1,6 +1,6 @@
 //Semana 05
-
 //Exercicio 01- Acesso simples
+
 //Crie um array chamado frutas contendo três frutas diferentes.
 // Em seguida, imprima no console a segunda fruta do array.
 //Desafio: utilize a biblioteca prompt-sync para receber cada uma das 3 frutas.
