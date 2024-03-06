@@ -1,5 +1,4 @@
 // SEMANA 04
-
 // EXERCICIO 2 Crie uma função nomeada que recebe um número e devolva uma string dizendo se é par ou ímpar.
 
 //Chamando o prompt
@@ -14,3 +13,4 @@ if (resto == 0) {
 } else {
     console.log("O número é impar")
 }
+  

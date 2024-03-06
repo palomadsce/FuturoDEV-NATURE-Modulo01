@@ -1,6 +1,6 @@
 // SEMANA 04
-
 // EXERCICIO 7
+
 //Você foi contratado por um supermercado para catalogar a compra de uma cliente. 
 //Assim que a aplicação começa deverá ser perguntado em um prompt qual produto o cliente deseja comprar, 
 //só serão aceitas as seguintes respostas:

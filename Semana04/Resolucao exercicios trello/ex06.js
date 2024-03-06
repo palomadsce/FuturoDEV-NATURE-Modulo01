@@ -1,6 +1,6 @@
 // SEMANA 04
-
 // EXERCICIO 6 
+
 //Utilizando estrutura de repetição for realize a tabuada do número 5 e exiba no console da seguinte forma:
 //5 x 0 = 0
 //5 x 1 = 5
